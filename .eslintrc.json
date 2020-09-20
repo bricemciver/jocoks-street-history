@@ -1,0 +1,7 @@
+{
+  "extends": ["react-app"],
+  "parserOptions": {
+    "project": "./tsconfig.e2e.json"
+  },
+  "rules": {}
+}

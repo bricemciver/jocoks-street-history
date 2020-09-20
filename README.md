@@ -1,3 +1,6 @@
+# jocoks-street-history
+Project to visualize the history behind Johnson County, KS street names
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
